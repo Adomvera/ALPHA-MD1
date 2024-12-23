@@ -44,7 +44,7 @@
     },
     "PM_PERMIT": {
       "description": "Restrict other users from using your bot in private messages (type 'yes' to activate or 'no' to deactivate; don't write in capital letters)",
-      "value": "no",
+      "value": "yes",
       "required": false
     },
     "ANTI_VV": {
